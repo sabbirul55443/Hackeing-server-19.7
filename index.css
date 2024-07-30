@@ -1,0 +1,21 @@
+h1{ margin: 0%;padding: 0%;
+    color: #2c0672;
+position: fixed;top: 10px;}
+h5{ margin: 0%;padding: 0%;
+    color: rgb(247, 9, 9);
+position: absolute; top:165px} button{background-color: rgba(235, 5, 5, 0.877);}a{ color: rgb(88, 1, 1);} button{ position: absolute;
+left:70px;
+top:199px;}
+h4{margin: 0%; padding: 0%; position: absolute;top:130px }
+ a{
+    color: #1eff31;
+ }
+ p{
+    color: #f8fc0afb;
+ }
+ h3{
+    color: #1eff00; position: absolute; top: 30px;
+ }
+ body{
+    background-color: #09bdcaad;
+ }
