@@ -4,7 +4,7 @@ position: fixed;top: 10px;}
 h5{ margin: 0%;padding: 0%;
     color: rgb(247, 9, 9);
 position: absolute; top:165px} button{background-color: rgba(235, 5, 5, 0.877);}a{ color: rgb(88, 1, 1);} button{ position: absolute;
-left:70px;
+left:78px;
 top:199px;}
 h4{margin: 0%; padding: 0%; position: absolute;top:130px }
  a{
@@ -18,4 +18,6 @@ h4{margin: 0%; padding: 0%; position: absolute;top:130px }
  }
  body{
     background-color: #09bdcaad;
+ } h2{
+   color: #fd0c5c;
  }
